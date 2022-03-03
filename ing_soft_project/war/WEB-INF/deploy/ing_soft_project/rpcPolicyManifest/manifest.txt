@@ -1,0 +1,3 @@
+# Module ing_soft_project
+# RPC service class, partial path of RPC policy file
+ing.soft.myproject.client.GreetingService, F5B4017BF712CB45DCDAA7CBFD46EE94.gwt.rpc
