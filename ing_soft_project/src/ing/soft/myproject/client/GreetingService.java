@@ -11,5 +11,5 @@ public interface GreetingService extends RemoteService {
 	String greetServer(String name) throws IllegalArgumentException;
 }
 ///test commit2
-//Test commit3
+//Test commit4
 
