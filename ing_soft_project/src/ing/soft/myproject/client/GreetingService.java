@@ -10,6 +10,5 @@ import com.google.gwt.user.client.rpc.RemoteServiceRelativePath;
 public interface GreetingService extends RemoteService {
 	String greetServer(String name) throws IllegalArgumentException;
 }
-///test commit2
-//Test commit4
+//Prova pull request
 
