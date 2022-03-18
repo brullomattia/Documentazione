@@ -11,4 +11,4 @@ public interface GreetingService extends RemoteService {
 	String greetServer(String name) throws IllegalArgumentException;
 }
 //Prova pull request
-
+//Prova commit collegamento Github/Jira
